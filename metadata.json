@@ -1,0 +1,8 @@
+{
+  "name": "Block Roll 3D: Isometric Puzzle",
+  "description": "A vibrant 3D isometric block puzzle game with realistic rolling physics, winding tile paths, collectible coins, and challenging levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
